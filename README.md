@@ -1,3 +1,4 @@
+# adding heading by Monit Kapoor
 # Calculator (Vue 3)
 
 ### Description :- It is a simple numeric calculator built using vue js 3, you are welcome to fork this repo and extend it, Thanks :)
